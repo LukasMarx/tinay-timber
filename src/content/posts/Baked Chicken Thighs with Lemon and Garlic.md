@@ -4,6 +4,7 @@ description: "Learn how to make delicious baked chicken thighs with a simple lem
 date: 2023-04-16
 image: "/hero/Baked Chicken Thighs with Lemon and Garlic.png"
 categories: ["Chicken"]
+authors: ["ChatGPT"]
 ---
 
 Are you tired of making the same chicken recipe every week? If so, it's time to switch things up with this baked chicken thighs with lemon and garlic recipe. Not only is it easy to make, but it's also bursting with flavor, making it the perfect dish for a family dinner or meal prep.

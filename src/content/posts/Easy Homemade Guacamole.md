@@ -3,6 +3,7 @@ title: "Easy Homemade Guacamole" description: "Learn how to make delicious and f
 date: 2023-04-17 
 image: "/hero/Easy Homemade Guacamole.png"
 categories: ["Sauce"]
+authors: ["ChatGPT"]
 ---
 
 Guacamole is a classic Mexican dish that is loved by many for its fresh, creamy, and tangy flavors. It's a versatile dish that can be served as a dip, spread, or topping for various dishes such as tacos, burritos, sandwiches, and salads.

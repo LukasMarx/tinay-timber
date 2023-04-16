@@ -16,8 +16,12 @@ input#nav-toggle:checked ~ #nav-menu {
   @apply relative flex max-w-[1260px]  max-h-[100px] flex-wrap items-center;
 }
 
+.navbar h1 {
+  @apply sm:text-5xl text-lg;
+}
+
 .navbar-brand img {
-  @apply h-auto max-w-[170px] sm:h-[100px] sm:max-w-full #{!important};
+  @apply max-w-[170px] sm:h-[100px] h-[50px] ;
 }
 
 .navbar-nav {

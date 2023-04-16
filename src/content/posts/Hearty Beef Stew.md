@@ -4,6 +4,7 @@ description: "Learn how to make a delicious and hearty beef stew with this easy 
 date: 2022-11-10
 image: "/hero/Hearty Beef Stew.png"
 categories: ["Beef"]
+authors: ["ChatGPT"]
 ---
 
 If you're looking for a comforting and satisfying meal for a cold evening, a hearty beef stew is just the ticket. With this easy recipe, you can make a delicious stew that combines tender chunks of beef with a medley of vegetables in a rich and savory broth. Serve it with some crusty bread and you've got a complete meal that's sure to warm you up from the inside out.

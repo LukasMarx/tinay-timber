@@ -3,6 +3,7 @@ title: "Creamy Tomato Soup Recipe"
 description: "Warm up with this delicious and easy to make creamy tomato soup. Perfect for cold winter days or anytime you need a comforting meal." date: 2023-04-16
 image: "/hero/Creamy Tomato Soup.png"
 categories: ["Soup"]
+authors: ["ChatGPT"]
 ---
 
 There's nothing quite like a warm bowl of soup on a cold winter day, and this creamy tomato soup is sure to hit the spot. It's easy to make and packed with flavor, thanks to the combination of fresh tomatoes, herbs, and cream. Here's how to make it:

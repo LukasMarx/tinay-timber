@@ -4,6 +4,7 @@ description: "Learn how to make delicious spaghetti with tomato sauce and meatba
 date: 2022-11-10
 image: "/hero/Spaghetti with Tomato Sauce and Meatballs.png"
 categories: ["Pasta"]
+authors: ["ChatGPT"]
 ---
 
 ## Ingredients

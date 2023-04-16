@@ -4,6 +4,7 @@ description: "Learn how to make the perfect classic chocolate chip cookies with 
 date: 2023-04-16
 image: "/hero/Classic Chocolate Chip Cookies.png"
 categories: ["Dessert"]
+authors: ["ChatGPT"]
 ---
 
 Chocolate chip cookies are a classic dessert that everyone loves. Whether you're making them for a party or just to enjoy at home, this recipe will show you how to make perfect chocolate chip cookies every time. They're crispy on the outside, chewy on the inside, and loaded with delicious chocolate chips.

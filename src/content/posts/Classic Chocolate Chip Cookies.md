@@ -1,7 +1,7 @@
 ---
 title: "Classic Chocolate Chip Cookies"
 description: "Learn how to make the perfect classic chocolate chip cookies with this easy-to-follow recipe. These cookies are crispy on the outside, chewy on the inside, and loaded with delicious chocolate chips."
-date: 2023-04-16
+date: 2023-03-16
 image: "/hero/Classic Chocolate Chip Cookies.png"
 categories: ["Dessert"]
 authors: ["ChatGPT"]

@@ -1,5 +1,5 @@
 ---
-title: "Creamy Tomato Soup Recipe" 
+title: "Creamy Tomato Soup" 
 description: "Warm up with this delicious and easy to make creamy tomato soup. Perfect for cold winter days or anytime you need a comforting meal." date: 2023-04-16
 image: "/hero/Creamy Tomato Soup.png"
 categories: ["Soup"]

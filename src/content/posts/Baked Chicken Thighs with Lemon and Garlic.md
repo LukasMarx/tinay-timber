@@ -1,7 +1,7 @@
 ---
 title: "Baked Chicken Thighs with Lemon and Garlic"
 description: "Learn how to make delicious baked chicken thighs with a simple lemon and garlic marinade. This recipe is easy to follow and perfect for a family dinner or meal prep."
-date: 2023-04-16
+date: 2023-03-16
 image: "/hero/Baked Chicken Thighs with Lemon and Garlic.png"
 categories: ["Chicken"]
 authors: ["ChatGPT"]

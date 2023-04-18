@@ -1,5 +1,5 @@
 ---
-title: ChatGPT
+title: Chat-GPT
 image: /chatgpt.png
 description: this is meta description
 social:

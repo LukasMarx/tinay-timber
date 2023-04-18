@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "AI Food Blog",
+    "title": "Tiny Timber",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
